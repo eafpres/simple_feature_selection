@@ -5,3 +5,4 @@ The model is stored in a variable, which allows use of some parsing to extract o
 model factors with significance according to a threshold set in the code
 This method allows generating a model with better predictive performance on new data all programmatically
 
+See the PDF for a full writeup of the method
